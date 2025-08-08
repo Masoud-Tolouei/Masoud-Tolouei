@@ -4,7 +4,8 @@
 I’m into programming and front-end development. Though I know Python, I’m currently diving deeper into the exciting world of JavaScript!  
 
 ## 🌱 Currently Learning  
-JavaScript  
+Vue JS
+Node.js
 
 ## 💞️ Collaboration Opportunities  
 I'm not looking for collaborations at the moment.  
